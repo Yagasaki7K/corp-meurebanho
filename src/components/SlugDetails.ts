@@ -324,6 +324,14 @@ const SlugDetails = styled.div`
                             flex-direction: column;
                         }
 
+                        @media (max-width: 768px) {
+                            .col-1,
+                            .col-5 {
+                                display: flex;
+                                gap: 1rem;
+                            }
+                        }
+
                         .animal {
                             border: 1px solid var(--gray);
                             background: var(--gray-lighter);
@@ -334,6 +342,10 @@ const SlugDetails = styled.div`
 
                             @media (max-width: 1366px) {
                                 width: 10rem;
+                            }
+
+                            @media (max-width: 768px) {
+                                margin: 0;
                             }
 
                             p {
