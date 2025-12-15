@@ -27,11 +27,6 @@
 - Geração (JSON) | _generation_ | Gerações de Bezerros/Embriões/Aspiração
 - Prêmios (JSON) | _achivements_ | Prêmios que o animal adquiriu durante a vida
 
-# Enviroments Variables
-
-- NEXT_PUBLIC_SUPABASE_URL=https://sfehcxvhazrsyonmdsgp.supabase.co
-- NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=sb_publishable_Dw_GAxV3Ts7vuwmE2geLLQ_xysryo7N
-
 # Futuras funcionalides
 
 - Sistema de registro de vacinas
