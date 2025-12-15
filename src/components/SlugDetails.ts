@@ -301,6 +301,10 @@ const SlugDetails = styled.div`
                         align-items: center;
                         font-size: 1.2rem;
 
+                        @media (max-width: 768px) {
+                            margin-bottom: 1rem;
+                        }
+
                         svg {
                             width: 15px;
                             height: 15px;
