@@ -5,7 +5,7 @@
     "": {
       "name": "app-meuagro",
       "dependencies": {
-        "@supabase/supabase-js": "^2.110.7",
+        "@supabase/supabase-js": "^2.110.8",
         "@types/next-pwa": "^5.6.9",
         "date-fns": "^4.4.0",
         "dayjs": "^1.11.21",
