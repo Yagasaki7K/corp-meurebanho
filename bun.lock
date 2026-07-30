@@ -5,7 +5,7 @@
     "": {
       "name": "app-meuagro",
       "dependencies": {
-        "@supabase/supabase-js": "^2.110.9",
+        "@supabase/supabase-js": "^2.111.0",
         "@types/next-pwa": "^5.6.9",
         "date-fns": "^4.4.0",
         "dayjs": "^1.11.21",
@@ -817,7 +817,7 @@
 
     "next-pwa": ["next-pwa@5.6.0", "", { "dependencies": { "babel-loader": "^8.2.5", "clean-webpack-plugin": "^4.0.0", "globby": "^11.0.4", "terser-webpack-plugin": "^5.3.3", "workbox-webpack-plugin": "^6.5.4", "workbox-window": "^6.5.4" }, "peerDependencies": { "next": ">=9.0.0" } }, "sha512-XV8g8C6B7UmViXU8askMEYhWwQ4qc/XqJGnexbLV68hzKaGHZDMtHsm2TNxFcbR7+ypVuth/wwpiIlMwpRJJ5A=="],
 
-    "next-seo": ["next-seo@7.2.0", "", { "peerDependencies": { "next": ">=13.4.0", "react": ">=18.2.0" } }, "sha512-ST7/YB8g0SXGuEKNucBz9wiP6nCYVZ4v8qJB7rAz9Vr1X98mw5orWL9COr8td/dzqtCYd4xaIg0YVCq5Yy3PQA=="],
+    "next-seo": ["next-seo@7.3.0", "", { "peerDependencies": { "next": ">=13.4.0", "react": ">=18.2.0" } }, "sha512-j8tO4dZRBcl2jQjVSXVQmnkUHRE3czl+0Bu4Oeo3Ttwfj8yQOS6k4Esd+tPOMCZ0KhTUwQoWnGGGPBoHcCHyqg=="],
 
     "node-releases": ["node-releases@2.0.27", "", {}, "sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA=="],
 
