@@ -18,7 +18,7 @@
         "react-hook-form": "^7.85.0",
         "recharts": "^3.10.1",
         "sonner": "^2.0.8",
-        "styled-components": "^6.5.1",
+        "styled-components": "^6.5.2",
         "uuid": "^13.0.2",
       },
       "devDependencies": {
