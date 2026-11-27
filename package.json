@@ -22,7 +22,7 @@
           "react": "19.2.0",
           "react-dom": "19.2.0",
           "react-hook-form": "^7.92.0",
-          "recharts": "^3.11.1",
+          "recharts": "^3.11.2",
           "sonner": "^2.0.8",
           "styled-components": "^6.7.0",
           "uuid": "^13.0.2"
